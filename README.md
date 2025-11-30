@@ -133,3 +133,9 @@ main_quartili_e_quantili
 ```
 3. Follow the prompts to input your data or select a dataset.
 4. View the computed quartiles, quantiles, and asymmetry indices.
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
